@@ -1,4 +1,4 @@
-plakater
+Plakater
 ========
 
-Plakater til forsiden
+Plakater til forsiden til ulike arrangement.
